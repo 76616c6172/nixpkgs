@@ -6,5 +6,3 @@ nixpkgs.bat
       env = _pkgs.buildEnv {
       name = ''declarative-collection''; 
       paths = _paths;
-}; }
-# Updated successfully!
