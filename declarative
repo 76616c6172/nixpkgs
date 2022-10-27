@@ -6,4 +6,3 @@ nixpkgs.neovim
 nixpkgs.zsh
 nixpkgs.alacritty
 nixpkgs.cloc
-nixpkgs.spotify
