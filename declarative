@@ -3,3 +3,4 @@ nixpkgs.git
 nixpkgs.tmux
 nixpkgs.btop
 nixpkgs.neovim
+nixpkgs.zsh

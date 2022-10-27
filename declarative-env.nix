@@ -6,6 +6,7 @@ nixpkgs.btop
 nixpkgs.git
 nixpkgs.neovim
 nixpkgs.tmux
+nixpkgs.zsh
              ]; 
       env = _pkgs.buildEnv {
       name = ''declarative-collection''; 
