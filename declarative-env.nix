@@ -11,4 +11,4 @@ nixpkgs.tmux
       name = ''declarative-collection''; 
       paths = _paths;
 }; }
-# Updated \033[32m successfully!\033[0m'
+\033[32m updated successfully! \033[0m
