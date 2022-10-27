@@ -7,6 +7,7 @@ nixpkgs.btop
 nixpkgs.cloc
 nixpkgs.git
 nixpkgs.neovim
+nixpkgs.spotify
 nixpkgs.tmux
 nixpkgs.zsh
              ]; 
