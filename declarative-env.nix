@@ -1,6 +1,7 @@
 let nixpkgs = import <nixpkgs> { }; in
 let _pkgs = import <nixpkgs> { }; in
 rec { _paths = [
+git
 nixpkgs.bat
 nixpkgs.neovim
              ]; 
@@ -8,4 +9,3 @@ nixpkgs.neovim
       name = ''declarative-collection''; 
       paths = _paths;
 }; }
-# Updated successfully!
