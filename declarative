@@ -1,5 +1,4 @@
 nixpkgs.bat
-nixpkgs.neovim
 nixpkgs.git
 nixpkgs.btop
 nixpkgs.tmux
