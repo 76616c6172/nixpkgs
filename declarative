@@ -2,3 +2,4 @@ nixpkgs.bat
 nixpkgs.git
 nixpkgs.tmux
 nixpkgs.neovim
+nixpkgs.btop
