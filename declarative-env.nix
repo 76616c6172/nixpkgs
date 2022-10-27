@@ -5,6 +5,7 @@ nixpkgs.bat
 nixpkgs.btop
 nixpkgs.git
 nixpkgs.neovim
+nixpkgs.tmux
              ]; 
       env = _pkgs.buildEnv {
       name = ''declarative-collection''; 
