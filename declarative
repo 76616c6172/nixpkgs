@@ -5,3 +5,4 @@ nixpkgs.btop
 nixpkgs.neovim
 nixpkgs.zsh
 nixpkgs.alacritty
+nixpkgs.cloc

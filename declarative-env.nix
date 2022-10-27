@@ -4,6 +4,7 @@ rec { _paths = [
 nixpkgs.alacritty
 nixpkgs.bat
 nixpkgs.btop
+nixpkgs.cloc
 nixpkgs.git
 nixpkgs.neovim
 nixpkgs.tmux
