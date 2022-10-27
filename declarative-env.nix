@@ -3,6 +3,7 @@ let _pkgs = import <nixpkgs> { }; in
 rec { _paths = [
 neovim
 nixpkgs.bat
+nixpkgs.neovim
              ]; 
       env = _pkgs.buildEnv {
       name = ''declarative-collection''; 
