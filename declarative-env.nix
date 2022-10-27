@@ -5,10 +5,10 @@ nixpkgs.bat
 nixpkgs.btop
 nixpkgs.git
 nixpkgs.neovim
-nixpkgs.nvim
 nixpkgs.tmux
              ]; 
       env = _pkgs.buildEnv {
       name = ''declarative-collection''; 
       paths = _paths;
 }; }
+# Updated \033[32m successfully!\033[0m'
