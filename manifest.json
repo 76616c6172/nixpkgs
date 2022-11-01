@@ -113,6 +113,18 @@
         "/nix/store/z82gdb70vimk9hbkpqihwfcfc3xlhqn6-vscode-1.72.2"
       ],
       "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.fzf",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/gy9k674n037yrs9nhgfw73pa291gzg04-fzf-0.34.0-man",
+        "/nix/store/r00kxnrqvxzn0g6ifd5dqyqw35nf1z66-fzf-0.34.0"
+      ],
+      "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
     }
   ],
   "version": 2
