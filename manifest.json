@@ -91,6 +91,17 @@
         "/nix/store/pswppxa1j2w3z8y1jxwlihzgagdkgq81-jq-1.6-man"
       ],
       "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.wget",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/df2mxzl2kvq6v23iyx3s53yawz6kwqr4-wget-1.21.3"
+      ],
+      "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
     }
   ],
   "version": 2
