@@ -140,13 +140,13 @@
     {
       "active": true,
       "attrPath": "packages.x86_64-linux.n-i-x",
-      "originalUrl": "git+file:///home/valar/projects/n-i-x",
+      "originalUrl": "github:76616c6172/n-i-x",
       "outputs": null,
       "priority": 5,
       "storePaths": [
         "/nix/store/5v5lrga0cl7sxszkqjb94y15sw9ka2vd-n-i-x"
       ],
-      "url": "git+file:///home/valar/projects/n-i-x?ref=refs%2fheads%2fmaster&rev=79992dd382c64717d695ec6b134cab1eccd5196c"
+      "url": "github:76616c6172/n-i-x/79992dd382c64717d695ec6b134cab1eccd5196c"
     }
   ],
   "version": 2
