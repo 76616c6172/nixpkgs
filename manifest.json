@@ -102,17 +102,6 @@
         "/nix/store/df2mxzl2kvq6v23iyx3s53yawz6kwqr4-wget-1.21.3"
       ],
       "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.google-chrome",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/n6malxqzkpsdv9jn4504qw17411kjjmn-google-chrome-107.0.5304.68"
-      ],
-      "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
     }
   ],
   "version": 2
