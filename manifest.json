@@ -125,6 +125,17 @@
         "/nix/store/r00kxnrqvxzn0g6ifd5dqyqw35nf1z66-fzf-0.34.0"
       ],
       "url": "github:NixOS/nixpkgs/e6e6bad81b7e11f37d893ef39712ce8918ae2338"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.cloc",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/vdcxgv7vw9cb26z4kpssqrhf2ab4ql4x-cloc-1.94"
+      ],
+      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
     }
   ],
   "version": 2
