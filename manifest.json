@@ -136,17 +136,6 @@
         "/nix/store/vdcxgv7vw9cb26z4kpssqrhf2ab4ql4x-cloc-1.94"
       ],
       "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
-    },
-    {
-      "active": true,
-      "attrPath": "packages.x86_64-linux.default",
-      "originalUrl": "git+file:///home/valar/projects/n-i-x",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/5b09cr469q8d8sv3xwyzaz4xkww14947-n-i-x-20221101"
-      ],
-      "url": "git+file:///home/valar/projects/n-i-x?ref=refs%2fheads%2fmaster&rev=2917aef58d7e56e908a0e3771aa7eb04c9ed589d"
     }
   ],
   "version": 2
