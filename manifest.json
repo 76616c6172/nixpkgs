@@ -14,6 +14,17 @@
     },
     {
       "active": true,
+      "attrPath": "packages.x86_64-linux.n-i-x",
+      "originalUrl": "github:76616c6172/n-i-x",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/pxxg1hn7h4idfaas0jg995ln4c9ph019-n-i-x"
+      ],
+      "url": "github:76616c6172/n-i-x/5b3946908393108ce2fa17cf1956eaf6493606c5"
+    },
+    {
+      "active": true,
       "attrPath": "legacyPackages.x86_64-linux.neovim",
       "originalUrl": "flake:nixpkgs",
       "outputs": null,
@@ -136,17 +147,6 @@
         "/nix/store/vdcxgv7vw9cb26z4kpssqrhf2ab4ql4x-cloc-1.94"
       ],
       "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
-    },
-    {
-      "active": true,
-      "attrPath": "packages.x86_64-linux.n-i-x",
-      "originalUrl": "github:76616c6172/n-i-x",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/pxxg1hn7h4idfaas0jg995ln4c9ph019-n-i-x"
-      ],
-      "url": "github:76616c6172/n-i-x/5b3946908393108ce2fa17cf1956eaf6493606c5"
     }
   ],
   "version": 2
