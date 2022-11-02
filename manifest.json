@@ -144,9 +144,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/5v5lrga0cl7sxszkqjb94y15sw9ka2vd-n-i-x"
+        "/nix/store/g9hgj2p3mn76w821gqkq0m5gkdnw35fb-n-i-x"
       ],
-      "url": "github:76616c6172/n-i-x/79992dd382c64717d695ec6b134cab1eccd5196c"
+      "url": "github:76616c6172/n-i-x/cdfa425e0bd5bcda7443bf6cf2f253703d8cab5c"
     }
   ],
   "version": 2
