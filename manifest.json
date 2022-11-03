@@ -19,9 +19,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/iqif330hm2fbayvhg5qhs6szdbw79kiz-n-i-x-build-20221103"
+        "/nix/store/fwi4zbn224ghsg0f7nkz4fwqmz7gp8mi-n-i-x-build-20221103"
       ],
-      "url": "github:76616c6172/n-i-x/954df3d2394afc28b1ea02504bf0569228778b10"
+      "url": "github:76616c6172/n-i-x/4a8dc02f87f2a0ebe11deccd83055b3d3dbadbc6"
     },
     {
       "active": true,
