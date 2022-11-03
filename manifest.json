@@ -10,7 +10,7 @@
         "/nix/store/0m91i8zwfdmm7a0v94hmbpnc79wvbpdd-nix-2.11.0-man",
         "/nix/store/vm7hsbk8iilg1806px9v45q5d7djvz7c-nix-2.11.0"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -19,9 +19,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/fwi4zbn224ghsg0f7nkz4fwqmz7gp8mi-n-i-x-build-20221103"
+        "/nix/store/9l32isci2lrk26ia77fz44kpb83qwmmp-n-i-x-build-20221103"
       ],
-      "url": "github:76616c6172/n-i-x/4a8dc02f87f2a0ebe11deccd83055b3d3dbadbc6"
+      "url": "github:76616c6172/n-i-x/2ccbdcb1bb646c326c7c97d9ad9748017462f827"
     },
     {
       "active": true,
@@ -32,7 +32,7 @@
       "storePaths": [
         "/nix/store/p26iiqb8h83fyyqgc6f73ff338hyhcsk-neovim-0.8.0"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -43,7 +43,7 @@
       "storePaths": [
         "/nix/store/x36mgrmhj25yqgyj0szqbi6r5shlbpxj-bat-0.22.1"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -54,7 +54,7 @@
       "storePaths": [
         "/nix/store/q3q9mbv4w48hkwrpkbqvfnbn6r8v1967-terraform-1.3.3"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -66,7 +66,7 @@
         "/nix/store/39gnwg90gf7b1hqr7bqw7ara89lcx0kf-zsh-5.9",
         "/nix/store/hlv8x1956dajrjdcm0v1y6kcypxqh1d5-zsh-5.9-man"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -77,7 +77,7 @@
       "storePaths": [
         "/nix/store/ri2x723z95ixwf1f040bprygz25y1la4-btop-1.2.12"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -89,7 +89,7 @@
         "/nix/store/bl16wifnglgjpmy1s8qbk55gqfh7jlyn-tmux-3.3a",
         "/nix/store/gpvlyy0dcw45xdk3cnkj9mlg0s7dpfyq-tmux-3.3a-man"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -101,7 +101,7 @@
         "/nix/store/frc8kpr292bw69mslf23ikk4whh363lz-jq-1.6-bin",
         "/nix/store/pswppxa1j2w3z8y1jxwlihzgagdkgq81-jq-1.6-man"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -112,7 +112,7 @@
       "storePaths": [
         "/nix/store/df2mxzl2kvq6v23iyx3s53yawz6kwqr4-wget-1.21.3"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -123,7 +123,7 @@
       "storePaths": [
         "/nix/store/z82gdb70vimk9hbkpqihwfcfc3xlhqn6-vscode-1.72.2"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -135,7 +135,7 @@
         "/nix/store/gy9k674n037yrs9nhgfw73pa291gzg04-fzf-0.34.0-man",
         "/nix/store/r00kxnrqvxzn0g6ifd5dqyqw35nf1z66-fzf-0.34.0"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     },
     {
       "active": true,
@@ -146,7 +146,7 @@
       "storePaths": [
         "/nix/store/vdcxgv7vw9cb26z4kpssqrhf2ab4ql4x-cloc-1.94"
       ],
-      "url": "github:NixOS/nixpkgs/ef2f213d9659a274985778bff4ca322f3ef3ac68"
+      "url": "github:NixOS/nixpkgs/a704b9029586266f63807f64a6718f1a65b0f83b"
     }
   ],
   "version": 2
