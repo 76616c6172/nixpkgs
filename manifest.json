@@ -158,17 +158,6 @@
         "/nix/store/g9kyxw18gkgs4s4qwbmby5c3s7jhxfhh-google-chrome-107.0.5304.87"
       ],
       "url": "github:NixOS/nixpkgs/bbf77421ac51a7c93f5f0f760da99e4dbce614fa"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.alacritty",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/yinbd0j74x7vimb8q582wzk93prghjpd-alacritty-0.11.0"
-      ],
-      "url": "github:NixOS/nixpkgs/bbf77421ac51a7c93f5f0f760da99e4dbce614fa"
     }
   ],
   "version": 2
