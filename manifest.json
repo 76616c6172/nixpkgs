@@ -147,6 +147,17 @@
         "/nix/store/hifk41nh5ai1bxbkhdrpr9zndwnii4rk-google-chrome-107.0.5304.110"
       ],
       "url": "github:NixOS/nixpkgs/8e8b5f3b1e899bf5d250279578c0283705b8cdb4"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.acpi",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/9g70nswla5a5lkskz7vhr6pjw01q4765-acpi-1.7"
+      ],
+      "url": "github:NixOS/nixpkgs/a5f661b80e4c163510a5013b585a040a5c7ef55e"
     }
   ],
   "version": 2
