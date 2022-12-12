@@ -147,17 +147,6 @@
         "/nix/store/qw2ds2rbyd7kxrrb0m7w5mlm5mhw4c0k-google-chrome-108.0.5359.98"
       ],
       "url": "github:NixOS/nixpkgs/ffca9ffaaafb38c8979068cee98b2644bd3f14cb"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.zoom-us",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/aqj5ln2dkqcmi71dvg3wzfjavv3qp266-zoom-5.12.9.367"
-      ],
-      "url": "github:NixOS/nixpkgs/ffca9ffaaafb38c8979068cee98b2644bd3f14cb"
     }
   ],
   "version": 2
