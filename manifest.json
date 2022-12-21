@@ -147,17 +147,6 @@
         "/nix/store/2yl4307x74ihy0w4w7x5hjapwi0r65wd-google-chrome-108.0.5359.124"
       ],
       "url": "github:NixOS/nixpkgs/e37ef84b478fa8da0ced96522adfd956fde9047a"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.python312",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/p0nrhwm4036h0zk7d7hhq7diasxp0li7-python3-3.12.0a3"
-      ],
-      "url": "github:NixOS/nixpkgs/e37ef84b478fa8da0ced96522adfd956fde9047a"
     }
   ],
   "version": 2
