@@ -147,6 +147,17 @@
         "/nix/store/hqq9y6zlxzb1bh4kp7a85r0mi1rg4hqm-google-chrome-108.0.5359.124"
       ],
       "url": "github:NixOS/nixpkgs/298add347c2bbce14020fcb54051f517c391196b"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.helix",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/j8z1hxd0dgz07ivmnw9qzxinhn28rfl9-helix-22.12"
+      ],
+      "url": "github:NixOS/nixpkgs/35f1f865c03671a4f75a6996000f03ac3dc3e472"
     }
   ],
   "version": 2
