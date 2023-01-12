@@ -150,17 +150,6 @@
     },
     {
       "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.helix",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/j8z1hxd0dgz07ivmnw9qzxinhn28rfl9-helix-22.12"
-      ],
-      "url": "github:NixOS/nixpkgs/35f1f865c03671a4f75a6996000f03ac3dc3e472"
-    },
-    {
-      "active": true,
       "attrPath": "legacyPackages.x86_64-linux.ripgrep",
       "originalUrl": "flake:nixpkgs",
       "outputs": null,
