@@ -158,6 +158,17 @@
         "/nix/store/v6lqmj8g7rxbhkn646nd5qhy49ij79d6-ripgrep-13.0.0"
       ],
       "url": "github:NixOS/nixpkgs/ef479383e13698c8d5ccf8a608485dc8ce1d4f80"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.micromamba",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/flnz4bphb1pywxqnrnfnn9scwrw5bbb8-micromamba-1.2.0"
+      ],
+      "url": "github:NixOS/nixpkgs/006c3bd4dd2f5d1d2094047f307cbf9e2b73d9c5"
     }
   ],
   "version": 2
