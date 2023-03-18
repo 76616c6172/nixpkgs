@@ -158,6 +158,17 @@
         "/nix/store/gcjdc26g5ihy3n4rainpvi67fn2418bq-ripgrep-13.0.0"
       ],
       "url": "github:NixOS/nixpkgs/1e383aada51b416c6c27d4884d2e258df201bc11"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.yt-dlp",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/f0l810kfs7806vdb7xgk3hd6smfyljhl-python3.10-yt-dlp-2023.3.4"
+      ],
+      "url": "github:NixOS/nixpkgs/126f49a01de5b7e35a43fd43f891ecf6d3a51459"
     }
   ],
   "version": 2
