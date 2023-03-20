@@ -169,6 +169,17 @@
         "/nix/store/2ifciwdf3zhwdx7d97d1ak99v1ga4har-python3.10-yt-dlp-2023.3.4"
       ],
       "url": "github:NixOS/nixpkgs/96f6f7c7fc7da4d3effb7f059a441634f42bea12"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.nodePackages_latest.ts-node",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/ynacgd44zv1n7fii480rn2zccfjfpqfx-ts-node-10.9.1"
+      ],
+      "url": "github:NixOS/nixpkgs/8bc6945b1224a1cfa679d6801580b1054dba1a5c"
     }
   ],
   "version": 2
