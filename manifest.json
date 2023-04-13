@@ -180,6 +180,17 @@
         "/nix/store/ynacgd44zv1n7fii480rn2zccfjfpqfx-ts-node-10.9.1"
       ],
       "url": "github:NixOS/nixpkgs/8bc6945b1224a1cfa679d6801580b1054dba1a5c"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.quarto",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/mmnc744if9rghij35p2h0aks7j73645p-quarto-1.2.475"
+      ],
+      "url": "github:NixOS/nixpkgs/96ba1c52e54e74c3197f4d43026b3f3d92e83ff9"
     }
   ],
   "version": 2
