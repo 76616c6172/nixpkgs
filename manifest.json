@@ -191,17 +191,6 @@
         "/nix/store/mmnc744if9rghij35p2h0aks7j73645p-quarto-1.2.475"
       ],
       "url": "github:NixOS/nixpkgs/96ba1c52e54e74c3197f4d43026b3f3d92e83ff9"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.osu-lazer",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/bf8dggfbsjvdi94x6qvw7hrwk9h4diby-osu-lazer-2023.403.1"
-      ],
-      "url": "github:NixOS/nixpkgs/bb2009ca185d97813e75736c2b8d1d8bb81bde05"
     }
   ],
   "version": 2
