@@ -191,17 +191,6 @@
         "/nix/store/mmnc744if9rghij35p2h0aks7j73645p-quarto-1.2.475"
       ],
       "url": "github:NixOS/nixpkgs/96ba1c52e54e74c3197f4d43026b3f3d92e83ff9"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.micromamba",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/k8ib6g1vrq0m6060c4v3mbl023hn0jdw-micromamba-1.2.0"
-      ],
-      "url": "github:NixOS/nixpkgs/bb2009ca185d97813e75736c2b8d1d8bb81bde05"
     }
   ],
   "version": 2
