@@ -191,6 +191,17 @@
         "/nix/store/1xw7j01nvxfir5xf0wwp358kqfjizp5n-quarto-1.2.475"
       ],
       "url": "github:NixOS/nixpkgs/374ffe54403c3c42d97a513ac7a14ce1b5b86e30"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.brave",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/ci01qywpb6dy25fhisbpc6pc6a9yz815-brave-1.51.110"
+      ],
+      "url": "github:NixOS/nixpkgs/0b6445b611472740f02eae9015150c07c5373340"
     }
   ],
   "version": 2
