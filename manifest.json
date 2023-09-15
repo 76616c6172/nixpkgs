@@ -172,17 +172,6 @@
     },
     {
       "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.nodePackages_latest.ts-node",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/703k5ga2hg7m22wgvgvi5zav2psk9qdg-ts-node-10.9.1"
-      ],
-      "url": "github:NixOS/nixpkgs/1697b7d480449b01111e352021f46e5879e47643"
-    },
-    {
-      "active": true,
       "attrPath": "legacyPackages.x86_64-linux.quarto",
       "originalUrl": "flake:nixpkgs",
       "outputs": null,
