@@ -191,6 +191,17 @@
         "/nix/store/xmqm681dws9qfq28wapm6rsxx9yh8l4v-brave-1.57.62"
       ],
       "url": "github:NixOS/nixpkgs/1697b7d480449b01111e352021f46e5879e47643"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.winetricks",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/2qwnxnlj61a7yyi0qvxsqx7w7w526223-winetricks-20230212"
+      ],
+      "url": "github:NixOS/nixpkgs/f902cb49892d300ff15cb237e48aa1cad79d68c3"
     }
   ],
   "version": 2
