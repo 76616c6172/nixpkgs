@@ -202,17 +202,6 @@
         "/nix/store/1l1n9529x6x3j0glp3nyv21f52l3ihf8-wine-wow-8.17"
       ],
       "url": "github:NixOS/nixpkgs/01441e14af5e29c9d27ace398e6dd0b293e25a54"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.winetricks",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/2qwnxnlj61a7yyi0qvxsqx7w7w526223-winetricks-20230212"
-      ],
-      "url": "github:NixOS/nixpkgs/01441e14af5e29c9d27ace398e6dd0b293e25a54"
     }
   ],
   "version": 2
