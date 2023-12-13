@@ -191,6 +191,17 @@
         "/nix/store/mfkanlrhfc8myk0jbjk4jw23pr7nnbz0-brave-1.60.118"
       ],
       "url": "github:NixOS/nixpkgs/45827faa2132b8eade424f6bdd48d8828754341a"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.picom",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/6i9pnnrvpqgwnn58yxbnrrw6h6m8rffj-picom-10.2"
+      ],
+      "url": "github:NixOS/nixpkgs/e97b3e4186bcadf0ef1b6be22b8558eab1cdeb5d"
     }
   ],
   "version": 2
