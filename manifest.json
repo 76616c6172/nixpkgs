@@ -202,6 +202,17 @@
         "/nix/store/giinq3c933dlvwb73g8klszf8fgl1vls-picom-10.2"
       ],
       "url": "github:NixOS/nixpkgs/aa9d4729cbc99dabacb50e3994dcefb3ea0f7447"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.steam",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/6jfdwz5570l7zcpjcgwsw43i5ckmhp3p-steam"
+      ],
+      "url": "github:NixOS/nixpkgs/aa9d4729cbc99dabacb50e3994dcefb3ea0f7447"
     }
   ],
   "version": 2
