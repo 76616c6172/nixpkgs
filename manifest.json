@@ -202,6 +202,17 @@
         "/nix/store/1876irxb9dh8v7j21nziyz6zn58dmzy0-picom-11.1"
       ],
       "url": "github:NixOS/nixpkgs/f8e2ebd66d097614d51a56a755450d4ae1632df1"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.btop",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/znla3jf1yrcqsd0rk9a1nflp3sk3r1ww-btop-1.3.0"
+      ],
+      "url": "github:NixOS/nixpkgs/085589047343aad800c4d305cf7b98e8a3d51ae2"
     }
   ],
   "version": 2
