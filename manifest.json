@@ -224,6 +224,17 @@
         "/nix/store/2zywlp6w1xzvafy1j5zsv7rzr6x1czjs-fim-0.7"
       ],
       "url": "github:NixOS/nixpkgs/d53c2037394da6fe98decca417fc8fda64bf2443"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.flameshot",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/4ab95v62ppsxfdwfbv3gnx9jqnaqfldn-flameshot-12.1.0"
+      ],
+      "url": "github:NixOS/nixpkgs/d53c2037394da6fe98decca417fc8fda64bf2443"
     }
   ],
   "version": 2
