@@ -213,6 +213,17 @@
         "/nix/store/znla3jf1yrcqsd0rk9a1nflp3sk3r1ww-btop-1.3.0"
       ],
       "url": "github:NixOS/nixpkgs/085589047343aad800c4d305cf7b98e8a3d51ae2"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.fim",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/2zywlp6w1xzvafy1j5zsv7rzr6x1czjs-fim-0.7"
+      ],
+      "url": "github:NixOS/nixpkgs/d53c2037394da6fe98decca417fc8fda64bf2443"
     }
   ],
   "version": 2
