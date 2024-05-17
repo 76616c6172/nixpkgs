@@ -279,18 +279,6 @@
         "/nix/store/h960xs3n0qh0809620kp9955sh56rgp1-direnv-2.34.0"
       ],
       "url": "github:NixOS/nixpkgs/2e359fb3162c85095409071d131e08252d91a14f"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.hyprland",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/dyx4rrl12labr3r2vh3ga8zdqzf6068s-hyprland-0.39.1-man",
-        "/nix/store/virbmqxgqxwsh7fan4miiyasmz4034zw-hyprland-0.39.1"
-      ],
-      "url": "github:NixOS/nixpkgs/179e0f110d859ec7f64c52de56de5b264d5db98a"
     }
   ],
   "version": 2
