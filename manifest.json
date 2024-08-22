@@ -302,6 +302,17 @@
         "/nix/store/jbm7b0gdxrjbbyh8rvkfp7xdm0s4saaj-clang-wrapper-17.0.6"
       ],
       "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.spotify",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/ldn7w4rpbz7jkhlys2bzd07xmwprir8j-spotify-1.2.42.290.g242057a2"
+      ],
+      "url": "github:NixOS/nixpkgs/36a9aeaaa17a2d4348498275f9fe530cd4f9e519"
     }
   ],
   "version": 2
