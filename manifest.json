@@ -313,6 +313,17 @@
         "/nix/store/ldn7w4rpbz7jkhlys2bzd07xmwprir8j-spotify-1.2.42.290.g242057a2"
       ],
       "url": "github:NixOS/nixpkgs/36a9aeaaa17a2d4348498275f9fe530cd4f9e519"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.ladybird",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/d7v0mi5zayrxa0xbcsbz66g73npkn86z-ladybird-0-unstable-2024-08-12"
+      ],
+      "url": "github:NixOS/nixpkgs/b833ff01a0d694b910daca6e2ff4a3f26dee478c"
     }
   ],
   "version": 2
