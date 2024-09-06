@@ -335,6 +335,17 @@
         "/nix/store/6858hwhn8zk1ra6js423x2ckd08g7gbd-tailwindcss-3.4.10"
       ],
       "url": "github:NixOS/nixpkgs/fcb54ddcc974cff59bdfb7c1ac9e080299763d2d"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.ruff",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/s9sn9llf7xk4hjac2d4phj5zha9gszyh-ruff-0.6.3"
+      ],
+      "url": "github:NixOS/nixpkgs/9bb1e7571aadf31ddb4af77fc64b2d59580f9a39"
     }
   ],
   "version": 2
