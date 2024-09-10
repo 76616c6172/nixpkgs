@@ -357,17 +357,6 @@
         "/nix/store/4snajx02wq7ir6l445qddkrdf3sanjzf-ruff-lsp-0.0.55"
       ],
       "url": "github:NixOS/nixpkgs/9bb1e7571aadf31ddb4af77fc64b2d59580f9a39"
-    },
-    {
-      "active": true,
-      "attrPath": "legacyPackages.x86_64-linux.pyright",
-      "originalUrl": "flake:nixpkgs",
-      "outputs": null,
-      "priority": 5,
-      "storePaths": [
-        "/nix/store/b5g1c5x9yd866cg1dgbrrl773kslxqkm-pyright-1.1.378"
-      ],
-      "url": "github:NixOS/nixpkgs/add0443ee587a0c44f22793b8c8649a0dbc3bb00"
     }
   ],
   "version": 2
