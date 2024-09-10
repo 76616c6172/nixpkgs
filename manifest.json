@@ -368,6 +368,17 @@
         "/nix/store/b5g1c5x9yd866cg1dgbrrl773kslxqkm-pyright-1.1.378"
       ],
       "url": "github:NixOS/nixpkgs/add0443ee587a0c44f22793b8c8649a0dbc3bb00"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.nodePackages_latest.npm",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/mvhzc15in0r1qchhf621z04flwgbq75s-npm-10.8.3"
+      ],
+      "url": "github:NixOS/nixpkgs/add0443ee587a0c44f22793b8c8649a0dbc3bb00"
     }
   ],
   "version": 2
