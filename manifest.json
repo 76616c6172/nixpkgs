@@ -7,10 +7,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/xw3vac5h7ajfga5xf8s53dldpdzx823w-nix-2.18.5-man",
-        "/nix/store/y0qaalgy7nk3kvnk09j4466skm8ry55l-nix-2.18.5"
+        "/nix/store/hix84abazdxfazbydj3js53158dy8ga6-nix-2.18.7-man",
+        "/nix/store/mjlq2xzqsjl5pdv78x6zvzxqyf5bs40v-nix-2.18.7"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -30,9 +30,9 @@
       "outputs": null,
       "priority": -1,
       "storePaths": [
-        "/nix/store/r42ydp43zin4plqblhmc21sxbldcd561-neovim-0.10.1"
+        "/nix/store/pj8wdxamz5hqxxdlm932bcrh45d3pcnh-neovim-0.10.1"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -41,9 +41,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/v0nq16qp8x4iy068xhhhs2n9c1rnb785-bat-0.24.0"
+        "/nix/store/vgrwgqhsyw7ghcyirfbp3jdn3frjz6ms-bat-0.24.0"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -52,9 +52,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/b2rw1y9625bxdbiq7x9kwkzpcc7i77ag-terraform-1.9.3"
+        "/nix/store/dzd6g1ww6wgpslp1wf6h2xi95l3ghhd8-terraform-1.9.6"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -63,10 +63,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/hbknva3rvv0fnghnkq59ifzslva4g35b-zsh-5.9-man",
-        "/nix/store/y770h4wad1b9518vndjw8ap7m1ywjjlq-zsh-5.9"
+        "/nix/store/fd7jcwcn81a632n6vhx903a3d7pg433a-zsh-5.9-man",
+        "/nix/store/y6b258mhrmgn95cl2qzky2fblh9aswrj-zsh-5.9"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -75,10 +75,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/mggcawid56wrx269q9kzgvwwjd46zaar-tmux-3.4",
-        "/nix/store/y5794m0jafpl5hhk2d5mnhwgxb8940wg-tmux-3.4-man"
+        "/nix/store/b9rynw53qcahdnp23df9h46qwvr40pld-tmux-3.4",
+        "/nix/store/pdc04qyy6fdrqa06g6lnxrv4db5n5qnc-tmux-3.4-man"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -87,10 +87,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/axpqa3f5l63mc38h11x1gc5cykw8bn5i-jq-1.7.1-bin",
-        "/nix/store/wfmw87vqkz2xifc9sb0gvnad1l73qk6v-jq-1.7.1-man"
+        "/nix/store/0jpj9xq83imjwhldsrmiyn8pp8wjazp5-jq-1.7.1-man",
+        "/nix/store/x8jzsy0y1zk30mcvav2rh6lrw1gbzzy3-jq-1.7.1-bin"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -99,9 +99,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/8zz13nkg17nx2z4z08vwrihp7ni5kgzn-wget-1.24.5"
+        "/nix/store/knrmi1lxrymln482wgd3q8h0mnrhj9y8-wget-1.24.5"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -110,9 +110,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/y7kwc3ccy5mgwbvcf28mblrmrd1vn1im-vscode-1.91.1"
+        "/nix/store/vynknv3hmgdviq3rvaqwap0c4da2g5mr-vscode-1.93.1"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -121,10 +121,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/65a0hgzij3s7qhyq4yg3dh6axfh3hrs3-fzf-0.54.2-man",
-        "/nix/store/nswfxc3amm4rs8gradpd7vcf7ray3hmp-fzf-0.54.2"
+        "/nix/store/05sfcgnw7c8xng7aallbqm1gxpb6smgh-fzf-0.55.0-man",
+        "/nix/store/2f27qfzb3b3s09rjfz0g06g03igibnx1-fzf-0.55.0"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -133,9 +133,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/vbhr9cjsrk3lmigld6nvrxkb2qwcxhnk-cloc-2.00"
+        "/nix/store/2cmi0pya5jx28kn93cb29cd7xa0d4ick-cloc-2.02"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -144,9 +144,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/89x0nlzqkv9dia8imdf8r5n5yjfmqclx-google-chrome-126.0.6478.182"
+        "/nix/store/kn21847dwfd4xjbrjdlrb6rraakzjd9s-google-chrome-129.0.6668.58"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -155,9 +155,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/fnfmwb3s676q4hz9izxp1x1mpby2z75x-ripgrep-14.1.0"
+        "/nix/store/kfwa3x3v9b51j2nszh61adm447jv4nvk-ripgrep-14.1.1"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -166,9 +166,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/d43m2sapccv3irsrivqafdka8dr67lwq-yt-dlp-2024.7.25"
+        "/nix/store/s385c8lqrwpphqac94dpgv19w5d3wdw9-yt-dlp-2024.8.6"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -177,9 +177,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/f314y2ja3dkj5rpcrwjhg1934gfm0zyd-ts-node-10.9.2"
+        "/nix/store/3yahrgdlmln1bx5g8nnd0g91360n1nxl-ts-node-10.9.2"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -188,9 +188,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/rn49mwf1xm0rp0pyi5agpmkjzgwi28mf-quarto-1.5.55"
+        "/nix/store/4f0r74dzhzy21ax67ap4x60c8xqfx4ph-quarto-1.5.57"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -210,9 +210,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/9mz7khkwvx1lsqkafx0fajvcn3b6pndq-brave-1.67.134"
+        "/nix/store/rayfgdrr0vyj8hvv804lh4yxrai038xc-brave-1.70.117"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -221,9 +221,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/c9dxzjw04rfqzq09z5myqq30wmz0575c-btop-1.3.2"
+        "/nix/store/42sxai893dvb3n7wb64v2m155qzx37c1-btop-1.4.0"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -232,9 +232,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/7hbclbz01m6y5739vja946v1g43i8fzg-flameshot-12.1.0-unstable-2024-07-02"
+        "/nix/store/6by847pq8jlzfm4rqjbp3dnvhqxxc7gh-flameshot-12.1.0-unstable-2024-09-01"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -243,9 +243,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/bd02kh983q339v56m9x061lc44vawrsa-fim-0.7"
+        "/nix/store/y45xaf5ns8kcnx1cppngxclqvql9h1m4-fim-0.7"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -254,9 +254,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/lprdlj6y27i38fy722ydvqvsmajnwnzk-micromamba-1.5.8"
+        "/nix/store/1vd91fb02brpjr111wgcw83vzykv9va1-micromamba-1.5.8"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -265,9 +265,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/bd02kh983q339v56m9x061lc44vawrsa-fim-0.7"
+        "/nix/store/y45xaf5ns8kcnx1cppngxclqvql9h1m4-fim-0.7"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -276,9 +276,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/8l9j9kdv9m0z0s30lp4yvrc9s5bcbgmx-direnv-2.34.0"
+        "/nix/store/823qi3acdfxnvn0ylygjg6jabx7b4q31-direnv-2.34.0"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -287,10 +287,10 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/7dkw33xai3r3d6an938nkcarvxbp1zvs-feh-3.10.3",
-        "/nix/store/lhh8qkcm8ljnj3nhq6j5l89d90ccqva2-feh-3.10.3-man"
+        "/nix/store/b04alln7kj57637fv4kylhhqh42awz4w-feh-3.10.3-man",
+        "/nix/store/z4m81q8pqz6ys8s0qc8l928l6m8ck996-feh-3.10.3"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -299,9 +299,9 @@
       "outputs": null,
       "priority": 10,
       "storePaths": [
-        "/nix/store/jbm7b0gdxrjbbyh8rvkfp7xdm0s4saaj-clang-wrapper-17.0.6"
+        "/nix/store/4rz4z2bkb68vwbdxcwq0jxh2fyhhiqkh-clang-wrapper-18.1.8"
       ],
-      "url": "github:NixOS/nixpkgs/038fb464fcfa79b4f08131b07f2d8c9a6bcc4160"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -310,9 +310,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/ldn7w4rpbz7jkhlys2bzd07xmwprir8j-spotify-1.2.42.290.g242057a2"
+        "/nix/store/7pm4nr0xawkipdrvzlf9pv4x90cdx4s6-spotify-1.2.42.290.g242057a2"
       ],
-      "url": "github:NixOS/nixpkgs/36a9aeaaa17a2d4348498275f9fe530cd4f9e519"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -321,9 +321,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/vjxdb5nc09pr4va46g1mnck80wgf8q4p-lazygit-0.43.1"
+        "/nix/store/29l088z6zcgc53saggpbwnwic43b8k72-lazygit-0.44.1"
       ],
-      "url": "github:NixOS/nixpkgs/b833ff01a0d694b910daca6e2ff4a3f26dee478c"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -332,9 +332,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/6858hwhn8zk1ra6js423x2ckd08g7gbd-tailwindcss-3.4.10"
+        "/nix/store/9svvdd4sxdc4hjmwz3bwpvbsjkr5rxh5-tailwindcss-3.4.10"
       ],
-      "url": "github:NixOS/nixpkgs/fcb54ddcc974cff59bdfb7c1ac9e080299763d2d"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -343,9 +343,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/s9sn9llf7xk4hjac2d4phj5zha9gszyh-ruff-0.6.3"
+        "/nix/store/gag2an5wk2igqkjfnd9w0dn8fsp9siy6-ruff-0.6.7"
       ],
-      "url": "github:NixOS/nixpkgs/9bb1e7571aadf31ddb4af77fc64b2d59580f9a39"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -354,9 +354,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/4snajx02wq7ir6l445qddkrdf3sanjzf-ruff-lsp-0.0.55"
+        "/nix/store/kpr3aw8sklz7nvx9117sdf1zbibfzfxz-ruff-lsp-0.0.57"
       ],
-      "url": "github:NixOS/nixpkgs/9bb1e7571aadf31ddb4af77fc64b2d59580f9a39"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -365,9 +365,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/b5g1c5x9yd866cg1dgbrrl773kslxqkm-pyright-1.1.378"
+        "/nix/store/mckvwc71n0b6vyprrr7jx8kspqm9918c-pyright-1.1.381"
       ],
-      "url": "github:NixOS/nixpkgs/add0443ee587a0c44f22793b8c8649a0dbc3bb00"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     },
     {
       "active": true,
@@ -376,9 +376,9 @@
       "outputs": null,
       "priority": 5,
       "storePaths": [
-        "/nix/store/mvhzc15in0r1qchhf621z04flwgbq75s-npm-10.8.3"
+        "/nix/store/jjwigs5pzqi19m441lp1nfa69dgs4zpm-npm-10.8.3"
       ],
-      "url": "github:NixOS/nixpkgs/add0443ee587a0c44f22793b8c8649a0dbc3bb00"
+      "url": "github:NixOS/nixpkgs/fe866c653c24adf1520628236d4e70bbb2fdd949"
     }
   ],
   "version": 2
