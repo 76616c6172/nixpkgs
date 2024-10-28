@@ -390,6 +390,17 @@
         "/nix/store/mn2dlz2jlfggnnw6jfskd33157rjmy44-vercel-37.5.2"
       ],
       "url": "github:NixOS/nixpkgs/28b5b8af91ffd2623e995e20aee56510db49001a"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.trash-cli",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/4bag37f92gb7i7hsq73rxshis0cr8ycw-trash-cli-0.24.5.26"
+      ],
+      "url": "github:NixOS/nixpkgs/86e78d3d2084ff87688da662cf78c2af085d8e73"
     }
   ],
   "version": 2
