@@ -390,6 +390,17 @@
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
     },
+    "zig": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.zig",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/fr6zv46mwvikz78jpvis2iq33f5jg2zl-zig-0.13.0"
+      ],
+      "url": "github:NixOS/nixpkgs/de1864217bfa9b5845f465e771e0ecb48b30e02d?narHash=sha256-Ucfnxq1rF/GjNP3kTL%2BuTfgdoE9a3fxDftSfeLIS8mA%3D"
+    },
     "zsh": {
       "active": true,
       "attrPath": "legacyPackages.x86_64-linux.zsh",
