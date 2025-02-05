@@ -78,6 +78,18 @@
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
     },
+    "ffmpeg": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.ffmpeg",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/38na74whzaxfcj4zarz15kngn8gdw61n-ffmpeg-7.1-bin",
+        "/nix/store/pghgbcsc8ydgqb8gcy9h3vdjhpnznkj5-ffmpeg-7.1-man"
+      ],
+      "url": "github:NixOS/nixpkgs/f7384aacd0ecd28681a99269ac0dff2c3a805d63?narHash=sha256-1MABVDwNpAUrUDvyM6PlHlAB1eTWAX0eNYCzdsZ54NI%3D"
+    },
     "fim": {
       "active": true,
       "attrPath": "legacyPackages.x86_64-linux.fim",
@@ -212,6 +224,17 @@
         "/nix/store/nmpx2d5vlypzbc62rzcbplyaygxq6kk6-nix-2.24.10"
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
+    },
+    "nixGL": {
+      "active": true,
+      "attrPath": "packages.x86_64-linux.default",
+      "originalUrl": "github:guibou/nixGL",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/q6vy9cawib2aawr03p6fw6jgc1f8zpjw-nixGL"
+      ],
+      "url": "github:guibou/nixGL/310f8e49a149e4c9ea52f1adf70cdc768ec53f8a?narHash=sha256-lnzZQYG0%2BEXl/6NkGpyIz%2BFEOc/DSEG57AP1VsdeNrM%3D"
     },
     "npm": {
       "active": true,
