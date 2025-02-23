@@ -213,6 +213,17 @@
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
     },
+    "neovim-1": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.neovim",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 4,
+      "storePaths": [
+        "/nix/store/fhzw8ah6s37q2p9pak7d2alzhx0m137h-neovim-0.10.4"
+      ],
+      "url": "github:NixOS/nixpkgs/dad564433178067be1fbdfcce23b546254b6d641?narHash=sha256-vn285HxnnlHLWnv59Og7muqECNMS33mWLM14soFIv2g%3D"
+    },
     "nix": {
       "active": true,
       "attrPath": "legacyPackages.x86_64-linux.nix",
