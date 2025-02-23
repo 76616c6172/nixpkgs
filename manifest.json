@@ -402,6 +402,17 @@
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
     },
+    "xcolor": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.xcolor",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/yy4yay9d402fkxrpyhy9wlwh0js5drai-xcolor-0.5.1"
+      ],
+      "url": "github:NixOS/nixpkgs/dad564433178067be1fbdfcce23b546254b6d641?narHash=sha256-vn285HxnnlHLWnv59Og7muqECNMS33mWLM14soFIv2g%3D"
+    },
     "yt-dlp": {
       "active": true,
       "attrPath": "legacyPackages.x86_64-linux.yt-dlp",
