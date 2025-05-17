@@ -146,6 +146,17 @@
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
     },
+    "iamb": {
+      "active": true,
+      "attrPath": "packages.x86_64-linux.default",
+      "originalUrl": "github:ulyssa/iamb/latest",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/qcgg7zfp07sp15vfcc2aihgy2lrk0xpy-iamb-2e6376f"
+      ],
+      "url": "github:ulyssa/iamb/2e6376ff866a17eb4727af039b6a8e801da252e2?narHash=sha256-cjBSWUBgfwdLnpneJ5XW2TdOFkNc%2BRc/wyUp9arZzwg%3D"
+    },
     "jq": {
       "active": true,
       "attrPath": "legacyPackages.x86_64-linux.jq",
@@ -157,6 +168,17 @@
         "/nix/store/iha35mp2hjhc77bkg6mf2zr2gyi6d05s-jq-1.7.1-bin"
       ],
       "url": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c"
+    },
+    "ladybird": {
+      "active": true,
+      "attrPath": "packages.x86_64-linux.default",
+      "originalUrl": "github:LadybirdBrowser/ladybird",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/3himh5clnnw6cvyg78x2n0smw4iamwla-ladybird-add380d"
+      ],
+      "url": "github:LadybirdBrowser/ladybird/add380d6e216ee99bc443ce0e6a75059e3d77dcb?narHash=sha256-OkOr/rJc6lEadB%2BeCNjsWvSTdW9x765AyNh/HtiMDS8%3D"
     },
     "lazygit": {
       "active": true,
